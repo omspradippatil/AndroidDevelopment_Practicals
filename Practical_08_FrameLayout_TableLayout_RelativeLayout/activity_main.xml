@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="E-Commerce Product"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_launcher_foreground"
+            android:contentDescription="Product Image"
+            android:scaleType="centerInside"
+            android:layout_marginBottom="16dp" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:stretchColumns="0,1"
+            android:layout_marginBottom="16dp">
+
+            <TableRow>
+                <TextView
+                    android:text="Product Name:"
+                    android:textStyle="bold"
+                    android:padding="8dp" />
+                <TextView
+                    android:text="Smartphone"
+                    android:padding="8dp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="Price:"
+                    android:textStyle="bold"
+                    android:padding="8dp" />
+                <TextView
+                    android:text="$299.99"
+                    android:padding="8dp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="Rating:"
+                    android:textStyle="bold"
+                    android:padding="8dp" />
+                <TextView
+                    android:text="4.5/5 Stars"
+                    android:padding="8dp" />
+            </TableRow>
+
+        </TableLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add to Cart" />
+
+    </LinearLayout>
+
+</FrameLayout>
