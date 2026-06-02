@@ -1,46 +1,46 @@
-﻿# Android Development - 28 Complete Practicals
+# Android Development - 28 Complete Practicals
 
 A comprehensive guide for **beginner coders** to learn Android development from scratch. Each practical is organized in its own folder with simple, well-commented code.
 
 ---
 
-## ðŸ“‚ Project Structure
+##  Project Structure
 
 ```
 AndroidDevelopment_Practicals/
-â”œâ”€â”€ Practical_01_HelloWorld/
-â”œâ”€â”€ Practical_02_TextEditText/
-â”œâ”€â”€ Practical_03_Buttons/
-â”œâ”€â”€ Practical_04_CheckboxRadiobutton/
-â”œâ”€â”€ Practical_05_ProgressBar/
-â”œâ”€â”€ Practical_06_LoginForm/
-â”œâ”€â”€ Practical_07_LinearLayout_ConstraintLayout/
-â”œâ”€â”€ Practical_08_FrameLayout_TableLayout_RelativeLayout/
-â”œâ”€â”€ Practical_09_GridView_ListView_ScrollView/
-â”œâ”€â”€ Practical_10_SimpleCalculator/
-â”œâ”€â”€ Practical_11_SplashScreen/
-â”œâ”€â”€ Practical_12_TemperatureConvertor/
-â”œâ”€â”€ Practical_13_CountdownTimer/
-â”œâ”€â”€ Practical_14_DatePicker/
-â”œâ”€â”€ Practical_15_TimePicker/
-â”œâ”€â”€ Practical_16_LoginActivities/
-â”œâ”€â”€ Practical_17_ExplicitImplicitIntent/
-â”œâ”€â”€ Practical_18_Services/
-â”œâ”€â”€ Practical_19_BroadcastReceiver/
-â”œâ”€â”€ Practical_20_DatabaseRegistration/
-â”œâ”€â”€ Practical_21_Authentication/
-â”œâ”€â”€ Practical_22_MyContactsApp/
-â”œâ”€â”€ Practical_23_CameraApp/
-â”œâ”€â”€ Practical_24_SMSApplication/
-â”œâ”€â”€ Practical_25_EmailApplication/
-â”œâ”€â”€ Practical_26_LocationServices/
-â”œâ”€â”€ Practical_27_NavigationDrawer/
-â””â”€â”€ Practical_28_FlashlightApp/
+ Practical_01_HelloWorld/
+ Practical_02_TextEditText/
+ Practical_03_Buttons/
+ Practical_04_CheckboxRadiobutton/
+ Practical_05_ProgressBar/
+ Practical_06_LoginForm/
+ Practical_07_LinearLayout_ConstraintLayout/
+ Practical_08_FrameLayout_TableLayout_RelativeLayout/
+ Practical_09_GridView_ListView_ScrollView/
+ Practical_10_SimpleCalculator/
+ Practical_11_SplashScreen/
+ Practical_12_TemperatureConvertor/
+ Practical_13_CountdownTimer/
+ Practical_14_DatePicker/
+ Practical_15_TimePicker/
+ Practical_16_LoginActivities/
+ Practical_17_ExplicitImplicitIntent/
+ Practical_18_Services/
+ Practical_19_BroadcastReceiver/
+ Practical_20_DatabaseRegistration/
+ Practical_21_Authentication/
+ Practical_22_MyContactsApp/
+ Practical_23_CameraApp/
+ Practical_24_SMSApplication/
+ Practical_25_EmailApplication/
+ Practical_26_LocationServices/
+ Practical_27_NavigationDrawer/
+ Practical_28_FlashlightApp/
 ```
 
 ---
 
-## ðŸ“š Practical Breakdown
+##  Practical Breakdown
 
 ### **Phase 1: Basic UI Components (Practicals 1-5)**
 
@@ -102,7 +102,7 @@ AndroidDevelopment_Practicals/
 
 ---
 
-## ðŸš€ How to Use
+##  How to Use
 
 ### Step 1: Choose a Practical
 Open any practical folder that interests you.
@@ -126,38 +126,38 @@ Each practical follows the same structure:
 
 ---
 
-## ðŸ’¡ Key Concepts Covered
+##  Key Concepts Covered
 
 ### UI Components
-- âœ… TextView, EditText, Button
-- âœ… CheckBox, RadioButton, ToggleButton
-- âœ… ImageButton, ImageView
-- âœ… ProgressBar, ListView, GridView
+-  TextView, EditText, Button
+-  CheckBox, RadioButton, ToggleButton
+-  ImageButton, ImageView
+-  ProgressBar, ListView, GridView
 
 ### Layouts
-- âœ… LinearLayout (vertical/horizontal)
-- âœ… RelativeLayout
-- âœ… ConstraintLayout
-- âœ… FrameLayout, TableLayout
+-  LinearLayout (vertical/horizontal)
+-  RelativeLayout
+-  ConstraintLayout
+-  FrameLayout, TableLayout
 
 ### Advanced Features
-- âœ… Activities & Intents
-- âœ… Services & BroadcastReceivers
-- âœ… SQLite Database
-- âœ… Dialogs (DatePicker, TimePicker)
-- âœ… Device Features (Camera, GPS, SMS)
-- âœ… Permissions handling
+-  Activities & Intents
+-  Services & BroadcastReceivers
+-  SQLite Database
+-  Dialogs (DatePicker, TimePicker)
+-  Device Features (Camera, GPS, SMS)
+-  Permissions handling
 
 ### Programming Concepts
-- âœ… Event Handling
-- âœ… Navigation between activities
-- âœ… Data passing via Intent
-- âœ… Threading & Handlers
-- âœ… Database operations
+-  Event Handling
+-  Navigation between activities
+-  Data passing via Intent
+-  Threading & Handlers
+-  Database operations
 
 ---
 
-## ðŸ“‹ Required Permissions
+##  Required Permissions
 
 For device-specific practicals, add these to `AndroidManifest.xml`:
 
@@ -177,51 +177,51 @@ For device-specific practicals, add these to `AndroidManifest.xml`:
 
 ---
 
-## ðŸŽ¯ Learning Path for Beginners
+##  Learning Path for Beginners
 
 ### Week 1-2: Basics
-1. Hello World â†’ Understand app structure
-2. TextEditText â†’ Learn input handling
-3. Buttons â†’ Master event listeners
-4. CheckBox & RadioButton â†’ Multiple selections
+1. Hello World  Understand app structure
+2. TextEditText  Learn input handling
+3. Buttons  Master event listeners
+4. CheckBox & RadioButton  Multiple selections
 
 ### Week 2-3: Layouts & Forms
-5. ProgressBar â†’ Visual feedback
-6. LoginForm â†’ Form validation
-7. Layouts â†’ UI design patterns
-8. GridView & ListView â†’ Data display
+5. ProgressBar  Visual feedback
+6. LoginForm  Form validation
+7. Layouts  UI design patterns
+8. GridView & ListView  Data display
 
 ### Week 3-4: Advanced Features
-9. Calculator â†’ Math operations
-10. SplashScreen â†’ App initialization
-11. Convertor â†’ Data transformation
-12. Timers â†’ Threading basics
+9. Calculator  Math operations
+10. SplashScreen  App initialization
+11. Convertor  Data transformation
+12. Timers  Threading basics
 
 ### Week 4-5: Multi-Activity
-13. DatePicker & TimePicker â†’ Date/Time selection
-14. Multiple Activities â†’ Navigation
-15. Intents â†’ Communication between screens
-16. Services â†’ Background operations
+13. DatePicker & TimePicker  Date/Time selection
+14. Multiple Activities  Navigation
+15. Intents  Communication between screens
+16. Services  Background operations
 
 ### Week 5-6: Database & Device Features
-17. Database Registration â†’ Data persistence
-18. Authentication â†’ Security basics
-19. Contacts App â†’ Complete CRUD app
-20. Camera, SMS, Email â†’ Device integration
-21. Location & Flashlight â†’ Sensor usage
+17. Database Registration  Data persistence
+18. Authentication  Security basics
+19. Contacts App  Complete CRUD app
+20. Camera, SMS, Email  Device integration
+21. Location & Flashlight  Sensor usage
 
 ---
 
-## ðŸ” Code Quality Tips
+##  Code Quality Tips
 
 ### Variable Naming
 ```java
-// âœ… GOOD
+//  GOOD
 EditText userInputEditText;
 Button submitButton;
 TextView resultTextView;
 
-// âŒ BAD
+//  BAD
 EditText et;
 Button btn;
 TextView tv;
@@ -243,10 +243,10 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ---
 
-## ðŸ› Common Issues & Solutions
+##  Common Issues & Solutions
 
 ### Issue: "Cannot find symbol: R"
-**Solution**: Rebuild project (Build â†’ Rebuild Project)
+**Solution**: Rebuild project (Build  Rebuild Project)
 
 ### Issue: "App crashes on startup"
 **Solution**: Check logcat for error messages, verify findViewById() IDs match xml
@@ -259,7 +259,7 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ---
 
-## ðŸ“± Project Compilation Steps
+##  Project Compilation Steps
 
 1. Open each practical folder in Android Studio
 2. Configure build.gradle with appropriate `minSdk` and `targetSdk`
@@ -269,15 +269,15 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ---
 
-## ðŸŽ“ Recommended Study Order
+##  Recommended Study Order
 
-**For absolute beginners**: Follow practicals 1â†’2â†’3â†’4â†’5 â†’ skip to 6â†’7
-**For intermediate learners**: Follow 1â†’3â†’5â†’8â†’10â†’13â†’16â†’20â†’23
+**For absolute beginners**: Follow practicals 12345  skip to 67
+**For intermediate learners**: Follow 13581013162023
 **For advanced learners**: Start from 11 onwards and explore complex features
 
 ---
 
-## ðŸ“ž Additional Resources
+##  Additional Resources
 
 - [Official Android Documentation](https://developer.android.com/docs)
 - [Android Tutorials](https://developer.android.com/courses)
@@ -285,7 +285,7 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ---
 
-## âœ¨ Tips for Success
+##  Tips for Success
 
 1. **Read the code first** before running
 2. **Understand each line** - don't just copy-paste
@@ -296,9 +296,19 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ---
 
-**Happy Learning! ðŸš€ Welcome to Android Development!**
+**Happy Learning!  Welcome to Android Development!**
 
-## ☕ Support
+##  Support
 
 If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
 
+---
+
+##  Contact the Developer
+
+**Developed by OM Patil**
+
+- **Portfolio**: [ompradippatil.netlify.app](https://ompradippatil.netlify.app/)
+- **GitHub**: [@omspradippatil](https://github.com/omspradippatil)
+- **LinkedIn**: [OM Pradip Patil](https://in.linkedin.com/in/om-pradip-patil)
+- **Email**: [omspradippatil@gmail.com](mailto:omspradippatil@gmail.com)
