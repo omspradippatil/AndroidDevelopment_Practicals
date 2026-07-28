@@ -300,7 +300,7 @@ Toast.makeText(this, "Message", Toast.LENGTH_SHORT).show();
 
 ##  Support
 
-If you find this project helpful, consider [supporting me](https://ompradippatil.netlify.app/donate).
+If you find this project helpful, consider [supporting me](https://om-patil.com/donate).
 
 ---
 
